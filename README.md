@@ -15,7 +15,7 @@ An intense, 500+ hours of code, 3 month course on Javascript development. The en
 :zap: Fun fact: I'm also a lifeguard and like all things sports
 
 :art: Recent projects: 
-<a href="https://github.com/ellipsisMob/nomad">`Nomad`</a> <a href="https://github.com/SanderKoopmans/meal-planner">`Meal-planner`</a> 
+<a href="https://github.com/ellipsisMob/nomad">`Nomad`</a> <a href="https://github.com/SanderKoopmans/meal-planner">`Meal-planner`</a> <a href="https://sanderkoopmans.nl">`Portfolio site`</a>
 
 Current skills:
 <p float="left">
