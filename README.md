@@ -17,17 +17,17 @@
 
 ```javascript
 const about = {
-  name: "Sander Koopmans"
-  located_in: "Castricum, NL"
-  current_job: "Software Engineer"
-  company: "Team Rockstars IT"
+  name: "Sander Koopmans",
+  located_in: "Castricum, NL",
+  current_job: "Software Engineer",
+  company: "Team Rockstars IT",
 
   technical_background: [
     "Software Engineer, Team Rockstars IT",
     "Principal Software Engineer, Everable",
     "Frontend Developer, ecmXperts",
     "Fullstack Engineer, <Salt/>",
-  ]
+  ],
 
   interests: [
     "Cloud Engineering",
@@ -37,9 +37,9 @@ const about = {
     "API Development",
     "Various sports",
     "Saas",
-  ]
+  ],
 
-  expanding_my_knowledge_in: ["AWS", "Terraform", "Kubernetes"]
+  expanding_my_knowledge_in: ["AWS", "Terraform", "Kubernetes"],
 }
 ```
 
